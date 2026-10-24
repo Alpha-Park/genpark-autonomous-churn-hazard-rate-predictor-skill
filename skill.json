@@ -1,0 +1,12 @@
+{
+  "name": "genpark-autonomous-churn-hazard-rate-predictor-skill",
+  "version": "1.0.0",
+  "description": "Autonomous customer churn hazard model calculating Weibull survival probability and automated retention interventions",
+  "author": "GenPark AI Engineering",
+  "license": "MIT",
+  "keywords": ["churn-predictor", "survival-analysis", "hazard-rate", "retention", "ltv-protection", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
